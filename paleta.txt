@@ -1,0 +1,6 @@
+Paleta com Roxo
+Roxo Escuro: #310352
+Roxo Claro: #8A2BE2
+Branco: #FFFFFF
+Cinza Médio: #696969
+Cinza Claro: #E0E0E0
